@@ -1,38 +1,38 @@
-# Update Dari Tools SBF
+# NEW TOOL CRACK FACEBOOK 2022
 
 ## ⇨  Login Methode
 
-[✯] Email & Pass
+[⚡] Email & Pass
 
-[✯] Login Token
+[⚡] Login Token
   
-[✯] Token Tahan CheckPoint
+[⚡] Token Tahan CheckPoint
 
 ## ⇨  Menu Tools
 
-[✯] Crack From Friendlist/Public
+[⚡] Crack From Friendlist/Public
   
-[✯] Crack From Followers 
+[⚡] Crack From Followers 
 
-[✯] Crack From Likes
+[⚡] Crack From Likes
 
-[✯] Crack From ID Target
+[⚡] Crack From ID Target
 
-[✯] Crack With Number Phone
+[⚡] Crack With Number Phone
 
-[✯] Crack With Email
+[⚡] Crack With Email
 
-[✯] Cek Result Hasil Crack
+[⚡] Cek Result Hasil Crack
 
-[✯] Cek Opsi Account Hasil Crack
+[⚡] Cek Opsi Account Hasil Crack
 
-## ⇨  Crack
+## ⇨ Panji Crack
 
-[✯] Crack Default
+[⚡] Crack Default
   
-[✯] Crack Manual  
+[⚡] Crack Manual  
 
-[✯] Crack 5 Method
+[⚡] Crack 5 Method
 
 ## ⇨  Install Script Termux
 
@@ -50,13 +50,13 @@ $ pkg install git
 
 $ rm -rf cr4ck
 
-$ git clone https://github.com/dekura-x/cr4ck
+$ git clone https://github.com/Panji-Hitam/PanjiCrack
 
-$ cd cr4ck
+$ cd Panji-Crack
 
-$ python2 orbxd.py
+$ python2 linux.py
 
-## ✭ Warning ✭ ##
+### ⚡⚡ Warning ⚡⚡
 ```
 Matikan Data Dan Mode Pesawat Sebelum Crack!
 
@@ -69,11 +69,7 @@ Jika Pake Wifi Tidak Ada Hasil Beralih Ke Data!
  <img src="https://github.com/scripter-ryu/cr4ck/blob/main/ScreenTod/IMG_20210830_081805.jpg" width="640" title="ScreenShot" alt="Menu">
 </p>
 
-## ✭ Report Bug
-[![Instagram](https://img.shields.io/badge/Instagram-Report-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ngemry7)
+## ⚡ Report Bug
+## ⚡ Scipt Versi Terbaru
 
-## ✭ Script Versi Premuim
-[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Dekura-X&repo=BMBF&theme=chartreuse-dark)](https://github.com/Dekura-X/BMBF)
-
-## ✭ Script Versi Terbaru
-[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Dekura-X&repo=clanara&theme=chartreuse-dark)](https://github.com/Dekura-X/clanara)
+[![Panji Hitam](https://fb.me/HTTPCustomIndonesia)
