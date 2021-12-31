@@ -48,7 +48,7 @@ $ pip2 install mechanize
 
 $ pkg install git
 
-$ rm -rf cr4ck
+
 
 $ git clone https://github.com/Panji-Hitam/PanjiCrack
 
