@@ -66,7 +66,7 @@ Jika Pake Wifi Tidak Ada Hasil Beralih Ke Data!
 ```
 
 ### ScreenShot
- <img src="https://github.com/scripter-ryu/cr4ck/blob/main/ScreenTod/IMG_20210830_081805.jpg" width="640" title="ScreenShot" alt="Menu">
+ <img src="https://github.com/Panji-Hitam/Panji-Hitam/blob/main/Screenshot_2021-12-31-16-55-20-05_84d3000e3f4017145260f7618db1d683.jpg" width="640" title="ScreenShot" alt="Menu">
 </p>
 
 ## ⚡ Report Bug
