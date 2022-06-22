@@ -35,19 +35,13 @@
 <br/><br/>
 </p>
 
-# Tools Panji Hitam :
-<a href="https://github.com/Panji-Hitam/PanjiCrack"><img title="PanjiCrack" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=PanjiCrack&theme=chartreuse-dark"></a>
-<a href="https://github.com/Panji-Hitam/"><img title="Panji Hitam Indonesia" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=Panji-Hitam&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Panji-Hitam/"><img title="AUTO REPORT COMING SOON" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=Panji-Hitam&theme=dark"></a>
-<a href="https://github.com/Panji-Hitam/"><img title="BOT SOSIAL MEDIA COMING SOON" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=Panji-Hitam&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Panji-Hitam/"><img title="PANGERAN PERANG" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=Panji-Hitam&theme=tokyonight"></a>
+# Tools K4l0ng666 :
+<a href="https://github.com/k4long666/brute"><img title="Brute Fast" src="https://github-readme-stats.vercel.app/api/pin/?username=k4long666&repo=brute&theme=chartreuse-dark"></a>
+<a href="https://github.com/k4long666/smbf"><img title="Simple Multi Bruteforce" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=Panji-Hitam&theme=vision-friendly-dark"></a>
+<a href="https://github.com/k4long666/FuckCloner"><img title="Tools Cloner Old" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=Panji-Hitam&theme=dark"></a>
+<a href="https://github.com/k4long666/user_agent"><img title="User Agent One Klik" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=Panji-Hitam&theme=vision-friendly-dark"></a>
+<a href="https://github.com/k4long666/getcookie"><img title="Get Cookie Facebook" src="https://github-readme-stats.vercel.app/api/pin/?username=Panji-Hitam&repo=Panji-Hitam&theme=tokyonight"></a>
 
 ### My Accounts Report
-
-* [TELEGRAM](https://t.me/)
-
-* [FACEBOOK](https://www.facebook.com/HTTPCustomIndonesia)
-
-* [INSTAGRAM](https://instagram.com/Panji-Hitam)
-
+* [FACEBOOK](https://www.facebook.com/k4long666)
 
