@@ -10,16 +10,16 @@
     </a>
 </p>
 <h3><b><i>🏆 Github Statistics Panji Hitam:</i></b></h3>
-<a href="https://github.com/Panji-Hitam"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Panji-Hitam&theme=monokai"></a>
+<a href="https://github.com/k4long666"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=k4long666&theme=monokai"></a>
 </p>  
 <p><center> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
 </p></center>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Panji-Hitam&layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=k4long666&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Panji-Hitam&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+![github stats](https://github-readme-stats.vercel.app/api?username=k4long666&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 
 # Languages :
 </p>
