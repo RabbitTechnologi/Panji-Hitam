@@ -1,5 +1,5 @@
 <p align="center">
-<img src="![Screenshot_2022-06-22-03-48-11-74.jpg](https://user-images.githubusercontent.com/96907156/174929913-5b3948df-f1fa-4d70-b51e-1b5472f5b9dc.jpg)" alt="K4l0ng666" width="200"/>
+<img src="https://user-images.githubusercontent.com/96907156/174929913-5b3948df-f1fa-4d70-b51e-1b5472f5b9dc.jpg" alt="K4l0ng666" width="200"/>
 
 <p align="center">
     <a href="https://Lexxy24.github.io">
